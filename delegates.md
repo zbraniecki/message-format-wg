@@ -33,7 +33,7 @@ Please include your primary affiliation (e.g., the company you represent or wher
 - John Watson - Facebook (JRW)
 - Long Ho - Dropbox (LHO)
 - Mick Monaghan - Guidewire - (MMN)
-- Mihai Nita - Google (MIH)
+- Mihai Niță - Google (MIH)
 - Mike McKenna - PayPal (MGM)
 - Nick Felker - Google (NFR)
 - Nicolas Bouvrette - Expedia (NIC)
